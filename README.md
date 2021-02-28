@@ -5,7 +5,7 @@
 This repository contains:
 
 - [A visual intro to supervised learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1)
-- [Bias and variance] (http://www.r2d3.us/visual-intro-to-machine-learning-part-2)
+- [Bias and variance](http://www.r2d3.us/visual-intro-to-machine-learning-part-2)
 - [Model complexity, a regression example](ModelComplexity.ipynb)
 - [Semantic segmentation on Satellite Data, a first application](PrjD1_SemanticSeg.ipynb)
 - [Introduction to satellite image analysis with Python, DSTL challenge](PrjA1_DSTL_ImgChannelsMasks.ipynb)
